@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(46, 45, 43);
+    font: Normal 20px Arial ;
+    color:rgb(238, 209, 255);
+    padding: 20px;
+    text-align: center;
+
+  }
+  h1{
+    font-size: 70px;
+    color: rgb(253, 207, 199);
+  }
+   a {
+    padding-bottom: 20px;
+    color: rgb(235, 235, 235);
+   }
+ .alerta{
+  background: antiquewhite;
+  color: red;
+  padding: 30px;
+
+ }
+ .subt{
+  font: normal 40px arial bold;
+  color: rgb(253, 207, 199);
+ }
+ div{
+  font:normal 30px arial;
+  padding-top: 50px;
+ }
+ #lista{
+  background-color: black;
+  padding: 20px;
+ }
